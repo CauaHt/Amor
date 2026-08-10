@@ -3,7 +3,7 @@ const MEMORIES = [
     id: "primeiro-encontro",
     title: "Obrigado",
     date: "03 de Março, 2090",
-    image: "imagens/cheiro.jpg",
+    image: "cheiro.jpg",
     video: null,
     message:
       "simplesmente o melhor cheiro do mundo, da mulher mais cheirosa do mundo, e que por sinal é minha namorada!!!!!!",
@@ -16,7 +16,7 @@ const MEMORIES = [
     id: "primeira-viagem",
     title: "melhor forma de acordar",
     date: "22 de Julho, 2090",
-    image: "imagens/dormida.jpeg",
+    image: "dormida.jpeg",
     video: null,
     message: "Existe jeito melhor de acordar? depois desse dia eu desconheço",
     pos: {
@@ -28,7 +28,7 @@ const MEMORIES = [
     id: "pedido-namoro",
     title: "KKKKKKKKK",
     date: "14 de Fevereiro, 2020",
-    image: "imagens/peitin.jpg",
+    image: "peitin.jpg",
     video: null,
     message: "Rir do seu lado é sempre bom",
     pos: {
@@ -40,8 +40,8 @@ const MEMORIES = [
     id: "primeira-casa",
     title: "Já disse que amo te cheirar ?",
     date: "10 de Julho, 2090",
-    image: "images/memoria-4.jpg",
-    video: "imagens/lanche.mp4",
+    image: "memoria-4.jpg",
+    video: "lanche.mp4",
     message: "QUE CHEIRO BOM, PAPO DE ACALMAR A MENTE!",
     pos: {
       desktop: { top: 55, left: 58, rotate: 3 },
@@ -52,9 +52,9 @@ const MEMORIES = [
     id: "casamento",
     title: "Saudade daquele Sorvete",
     date: "18 de Setembro, 2022",
-    image: "images/memoria-5.jpg",
+    image: "memoria-5.jpg",
 
-    video: "imagens/comida.mp4",
+    video: "comida.mp4",
     message: "Tudo ao seu lado , tem um brilho diferente!",
     pos: {
       desktop: { top: 70, left: 40, rotate: -2.5 },
@@ -65,8 +65,8 @@ const MEMORIES = [
     id: "hoje",
     title: "Nós",
     date: "Todos os dias",
-    image: "images/memoria-6.jpg",
-    video: "imagens/teamo.mp4",
+    image: "memoria-6.jpg",
+    video: "teamo.mp4",
     message:
       "Essa é a minha forma de te amar, e é isso que eu quero que a gente seja, acima das diferenças, da falta de comunicação, dos desentendimentos, das brigas. Essa é a forma que eu vejo a gente, e é assim que eu quero e pretendo amar, cuidar e proteger. EU TE AMO, AMOR. Foram umas férias bobocas, mas é assim que a gente é, algo pra gente se lembrar, pois todo dia eu escolho você!",
     pos: {
